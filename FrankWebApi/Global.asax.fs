@@ -1,4 +1,4 @@
-namespace WebHost
+namespace FrankWebApi
 
 open System
 open System.Net

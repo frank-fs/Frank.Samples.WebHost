@@ -1,9 +1,9 @@
-module WebHost.AssemblyInfo
+module FSharpWebApi.AssemblyInfo
 open System.Reflection
 open System.Runtime.CompilerServices
 
 
-[<assembly: AssemblyTitle("WebHost")>]
+[<assembly: AssemblyTitle("FSharpWebApi")>]
 [<assembly: AssemblyDescription("")>]
 [<assembly: AssemblyConfiguration("")>]
 [<assembly: AssemblyCompany("")>]
